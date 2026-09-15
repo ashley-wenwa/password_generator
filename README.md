@@ -36,11 +36,6 @@ python password_generator.py --length 16
 ### Arguments:
 - `--length`: Length of the password (default: 12)
 
-## 🛡️ Disclaimer
-
-This tool is for educational purposes only. Do not use it for illegal or unethical activities.
-
-## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
